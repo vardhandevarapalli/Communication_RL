@@ -1,5 +1,3 @@
-Here’s a suggested raw file structure for your GitHub repository, including a project description that tags the paper and mentions your inspiration from certain GitHub repositories:
-
 ---
 
 # Deep Reinforcement Learning Autoencoder for Noisy Feedback Communication
